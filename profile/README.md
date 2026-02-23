@@ -1,4 +1,4 @@
-![Превью](images/readme_preview.png)
+![Превью](../images/readme_preview.png)
 
 ## GoodRoad 
 
@@ -88,11 +88,6 @@
   </tr>
 
   <tr>
-    <td><strong>Сеть/Сервер</strong></td>
-    <td>Spring Boot, Lombok</td>
-  </tr>
-
-  <tr>
     <td><strong>Работа с JSON</strong></td>
     <td>Jackson</td>
   </tr>
@@ -108,7 +103,7 @@
   </tr>
 
   <tr>
-    <td><strong>*Голосовое сопровождение*</strong></td>
+    <td><strong>*Голосовое сопровождение</strong></td>
     <td>Android TTS</td>
   </tr>
 </table>
@@ -122,7 +117,7 @@ TODO
 TODO
 
 **Архитектура клиентского приложения**
-![Схема клиентского приложения](images/android_scheme.png)
+![Схема клиентского приложения](../images/android_scheme.png)
 
 **Архитектура сервера**
-![Схема сервера](images/chema.png)
+![Схема сервера](../images/chema.png)
