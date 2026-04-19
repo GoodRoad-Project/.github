@@ -29,7 +29,7 @@
 
 **Для модератора**
 - Просмотр отзывов, отправленных на проверку;
-- Одобрение и отклонение отзывов;
+- Одобрение и отклонение отзывов.
 
 **Для главного модератора**
 - Все возможности модератора;
@@ -73,7 +73,7 @@ Android Client → REST API → Service Layer → Repository Layer → PostgreSQ
 | Язык | Kotlin |
 | UI | Jetpack Compose, Material 3 |
 | Навигация | Navigation Compose |
-| Состояние | ViewModel, LiveData |
+| Состояние | ViewModel, StateFlow |
 | Асинхронность | Kotlin Coroutines |
 | Сеть | Retrofit, OkHttp |
 | JSON | Gson Converter |
