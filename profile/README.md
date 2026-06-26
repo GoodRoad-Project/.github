@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/project_preview.png" alt="GoodRoad banner" width="974">
+  <img src="../images/preview.png" alt="GoodRoad banner" width="974">
 </p>
 
 ## GoodRoad
